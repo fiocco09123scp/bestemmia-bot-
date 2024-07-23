@@ -29,5 +29,6 @@ Ci riserviamo il diritto di modificare questa Privacy Policy in qualsiasi moment
 ## Contatti
 
 Se hai domande o preoccupazioni riguardanti la nostra Privacy Policy, non esitare a contattarci.
+e-mail: ultimatedevs@gmail.com
 
 Grazie per utilizzare Besteemmia Bot!
