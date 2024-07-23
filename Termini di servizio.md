@@ -1,6 +1,6 @@
 # Termini di Servizio di Bestemmia Bot
 
-**Ultimo aggiornamento: [Data]**
+Ultimo aggiornamento: 23 / 07 / 2024
 
 Benvenuto su Bestemmia Bot, sviluppato dal team Ultimate Developers. Utilizzando Bestemmia Bot, accetti di rispettare i seguenti Termini di Servizio. Ti invitiamo a leggerli attentamente.
 
@@ -8,7 +8,7 @@ Benvenuto su Bestemmia Bot, sviluppato dal team Ultimate Developers. Utilizzando
 Utilizzando Bestemmia Bot, dichiari di avere almeno 18 anni o di avere il consenso dei tuoi genitori o tutori per utilizzare questo servizio. Se non accetti questi termini, ti preghiamo di non utilizzare il bot.
 
 ### 2. Descrizione del Servizio
-Bestemmia Bot è un bot progettato per [descrivere brevemente le funzionalità, ad esempio: generare frasi provocatorie, divertenti o altro]. Il bot è inteso per scopi di intrattenimento e deve essere utilizzato in modo responsabile e rispettoso.
+Bestemmia Bot è un bot progettato per suggerire bestemmie nel momento del bisogno. Il bot è inteso per scopi di intrattenimento e deve essere utilizzato in modo responsabile e rispettoso.
 
 ### 3. Uso Responsabile
 - Non utilizzare Bestemmia Bot per scopi illegali o non autorizzati.
@@ -22,15 +22,15 @@ Il team Ultimate Developers non è responsabile per i contenuti generati dal bot
 Tutti i diritti sul servizio Bestemmia Bot, inclusi, ma non limitati a, testi, grafica, loghi, e software, sono di proprietà di Ultimate Developers o dei loro licenziatari. Non è consentito copiare, riprodurre, modificare, o altrimenti sfruttare il servizio senza previa autorizzazione scritta.
 
 ### 6. Modifiche ai Termini
-Ultimate Developers si riserva il diritto di modificare questi Termini di Servizio in qualsiasi momento. Gli utenti saranno informati di eventuali cambiamenti tramite [specificare il metodo di comunicazione, ad esempio: messaggio all'interno del bot, email, ecc.]. L'uso continuato del bot dopo la pubblicazione delle modifiche costituisce accettazione dei nuovi termini.
+Ultimate Developers si riserva il diritto di modificare questi Termini di Servizio in qualsiasi momento. Gli utenti saranno informati di eventuali cambiamenti tramite il bot L'uso continuato del bot dopo la pubblicazione delle modifiche costituisce accettazione dei nuovi termini.
 
 ### 7. Disconoscimento di Responsabilità
 Il servizio viene fornito "così com'è" e "secondo disponibilità". Ultimate Developers non fornisce alcuna garanzia riguardo all’affidabilità, disponibilità, o risultato del servizio.
 
 ### 8. Legislazione Applicabile
-Questi Termini sono regolati dalle leggi in vigore nel paese [specificare il paese], senza riguardo ai conflitti di legge. Eventuali controversie saranno risolte nei tribunali competenti di [specificare la giurisdizione].
+Questi Termini sono regolati dalle leggi in vigore in italia, senza riguardo ai conflitti di legge. Eventuali controversie saranno risolte nei tribunali competenti di [specificare la giurisdizione].
 
 ### 9. Contatti
-Per qualsiasi domanda o richiesta riguardante questi Termini di Servizio, puoi contattarci all' email: 
+Per qualsiasi domanda o richiesta riguardante questi Termini di Servizio, puoi contattarci all' email: ultimatedevs@gmail.com
 
 Utilizzando Bestemmia Bot, accetti di rispettare questi Termini di Servizio. Grazie per aver scelto Bestemmia Bot!
