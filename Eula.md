@@ -1,4 +1,3 @@
-
 # End User License Agreement (EULA) per Bestemmia Bot
 
 **Ultimo aggiornamento:** 23 / 07 / 2024
@@ -25,7 +24,7 @@ Il Bot viene fornito "così com'è" e Ultimate Developer non offre alcuna garanz
 Ultimate Developer si riserva il diritto di modificare questo EULA in qualsiasi momento. Le modifiche entreranno in vigore immediatamente dopo la pubblicazione dell'EULA aggiornato. L'uso continuato del Bot dopo la pubblicazione delle modifiche costituirà accettazione delle stesse.
 
 **7. Legge applicabile**
-Questo Accordo sarà regolato dalle leggi [Inserire la giurisdizione pertinente]. Qualsiasi controversia derivante da o in relazione a questo EULA sarà risolta presso i tribunali competenti.
+Questo Accordo sarà regolato dalle leggi italiane. Qualsiasi controversia derivante da o in relazione a questo EULA sarà risolta presso i tribunali competenti.
 
 **8. Contatti**
 Per domande riguardanti questo EULA, contattare:
