@@ -31,4 +31,4 @@ Per domande riguardanti questo EULA, contattare:
 Ultimate Developer
 e-mail: ultimatedevs@gmail.com
 
-**Accettando di utilizzare Bestemmia Bot, confermi di aver letto, compreso e accettato i termini di questo EULA.**
+**Accettando di utilizzare Bestemmia Bot, confermi di aver letto, compreso e accettato i termini di questa EULA.**
