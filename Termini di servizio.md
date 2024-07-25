@@ -28,9 +28,9 @@ Ultimate Developers si riserva il diritto di modificare questi Termini di Serviz
 Il servizio viene fornito "così com'è" e "secondo disponibilità". Ultimate Developers non fornisce alcuna garanzia riguardo all’affidabilità, disponibilità, o risultato del servizio.
 
 ### 8. Legislazione Applicabile
-Questi Termini sono regolati dalle leggi in vigore in italia, senza riguardo ai conflitti di legge. Eventuali controversie saranno risolte nei tribunali competenti di [specificare la giurisdizione].
+Questi Termini sono regolati dalle leggi in vigore in italia, senza riguardo ai conflitti di legge. Eventuali controversie saranno risolte nei tribunali competenti.
 
 ### 9. Contatti
-Per qualsiasi domanda o richiesta riguardante questi Termini di Servizio, puoi contattarci all' email: ultimatedevs@gmail.com
+Per qualsiasi domanda o richiesta riguardante questi Termini di Servizio, puoi contattarci all' email: ultimatedevelopersit@gmail.com
 
 Utilizzando Bestemmia Bot, accetti di rispettare questi Termini di Servizio. Grazie per aver scelto Bestemmia Bot!
