@@ -1,4 +1,4 @@
-# Privacy Policy di Besteemmia Bot
+# Privacy Policy di Bestemmia Bot
 
 ## Introduzione
 
